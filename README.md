@@ -1,0 +1,1 @@
+Simple setup of tests in pytest for future runs in CI/CD
