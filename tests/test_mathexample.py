@@ -5,7 +5,8 @@
 def test_two_plus_two_pass():
     assert 2+2 == 4
 
-"""Add 3 and five and expect test to fail"""
+def test_four_divide_two_pass():
+    assert 4/2 == 2
 
-def test_three_plus_five_fail():
-    assert 3+5 == 7
+def test_ten_multiply_two_pass():
+    assert 10*2 == 20
